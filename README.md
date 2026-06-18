@@ -111,6 +111,6 @@ pc-locker/
 
 <div align="center">
 
-Made with ❤️ by 乔一峰
+Made  by 乔志航
 
 </div>
